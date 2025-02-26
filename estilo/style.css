@@ -1,35 +1,44 @@
 html {
-    font-size: 10px;
+    font-size: 30px;
     color: azure;
     background-color: black;
 }
 
 h1 {
-    font-size: 6rem;
+    font-size: 2rem;
+}
+
+p {
+    font-size: 0,5rem;
 }
 
 th {
     margin: 0.5rem;
-    padding: 3rem;
-    font-size: 5rem;
+    padding: 0.5rem;
+    font-size: 1rem;
 }
 
 td {
     margin: 0.5rem;
-    padding: 3rem;
-    font-size: 2rem;
+    padding: 0.5rem;
+    font-size: 0.5rem;
 }
 
 .produto-nome {  
-    font-size: 3rem;
+    font-size: 1rem;
 }
 
 .preco {
-    font-size:3rem ;
+    font-size:1rem ;
 }
 
 .total {
-    margin: 2rem;
-    padding: 3rem;
-    font-size:5rem ;
+    margin: 0.5rem;
+    padding: 1rem;
+    font-size:2rem ;
+    color: rgb(230, 49, 49);
+}
+
+.permacultura {
+    color: greenyellow;
 }
